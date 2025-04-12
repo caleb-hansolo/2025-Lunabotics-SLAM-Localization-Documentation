@@ -1,8 +1,8 @@
 # 2025-Lunabotics-SLAM-Localization-Documentation
 
-## Orin Setup
+## Jetson Orin Nano Setup
 
-* To be written...
+* [Jetson Orin Nano Setup](https://github.com/caleb-hansolo/2025-Lunabotics-SLAM-Localization-Documentation/blob/main/jetson_orin_nano_setup.md)
 
 ## Lidar and Camera Setup
 
