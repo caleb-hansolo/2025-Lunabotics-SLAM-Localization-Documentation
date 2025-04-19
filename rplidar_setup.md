@@ -28,7 +28,7 @@ Baud Rate: 256,000
    
 6. cd into `~/rplidar_sdk`
    
-7. Compile/make by running in `~/rplidar_sdk`
+7. Compile/make by this command running in the `~/rplidar_sdk` directory
    ```bash
    make
    ```
