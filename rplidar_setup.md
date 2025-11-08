@@ -6,7 +6,7 @@ Baud Rate: 256,000
 
 ## Setup Steps
 
-**Ensure Jetson Orin is on Ubuntu 22.04**
+**Ensure Jetson Orin is on Ubuntu 22.04, or that a Linux machine is being used**
 
 1. Plug in the Lidar to the Orin via USB
    
