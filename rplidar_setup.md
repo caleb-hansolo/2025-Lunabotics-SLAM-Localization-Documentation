@@ -38,7 +38,7 @@ Baud Rate: 256,000
    ./ultra_simple --channel --serial /dev/ttyUSB0 256000
    ```
    * Ensure the port is correct (mine is connected on `ttyUSB0`)
-   * Ensure the baud rate (the final parameter of this command, A3 Lidars have `256000` baud rate) matches the baud rate of your lidar model
+   * Ensure the baud rate (the final parameter of this command) matches the baud rate of your lidar model (A3 Lidars have `256000` baud rate, S2 Lidars have `1000000` baud rate)
    * **TROUBLESHOOTING:** *If you get a "no such file or directory" error when running `./ultra_simple`, ensure it is in the `/Release` directory by running `ls`. If it is not, rerun `make` in the `~/rplidar_sdk` directory*
 
 After running these steps, you should get an output like:
